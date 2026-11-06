@@ -33,15 +33,15 @@ pip install h5py tifffile
 > [!NOTE]
 > Windows might flag this file as a risk. Once you see the warning, you can click on `More info` and then `Run anyway` to use this program.
 
-<img width="399" alt="2024-06-03_17h22_32" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Luxendo-MuVi-SPIM-Light-Sheet/assets/55537771/7fef56e4-555a-4ea2-bcd7-f3fb53d6dbb3">
-<img width="399" alt="2024-06-03_17h22_41" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Luxendo-MuVi-SPIM-Light-Sheet/assets/55537771/a9c98f50-6388-49d0-b138-dafacfefe34e">
+<img width="399" alt="2024-06-03_17h22_32" src="assets/smartscreen-more-info.png">
+<img width="399" alt="2024-06-03_17h22_41" src="assets/smartscreen-run-anyway.png">
 
 
 
 
 3. **Selecting Directories:**
 
-   <img width="605" alt="Converter GUI" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Luxendo-MuVi-SPIM-Light-Sheet/assets/55537771/d2c51f3f-7f50-4adc-8966-cfd089fb9f69">
+   <img width="605" alt="Converter GUI" src="assets/converter-gui.png">
    
   - **Process Single Folder:**
     - Click the "Process Single Folder" button.
