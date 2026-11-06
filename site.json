@@ -1,0 +1,8 @@
+{
+  "name": "Luxendo MuVi SPIM Light Sheet Tools",
+  "short": "Luxendo MuVi SPIM",
+  "menu": [
+    { "label": "h5 to TIFF converter", "href": "./#h5-to-tiff-converter" },
+    { "label": "Image Processor guide", "href": "Image_Processor-v4.15.1-beta-01/" }
+  ]
+}
